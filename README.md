@@ -1,5 +1,4 @@
 # GitGood-Fetch-EasyMode
-An easy case for fetching and merging remote changes to your local repository.
 
 For starters, this is the simplest and cleanest case of `git fetch` you'll likely ever see - while it's not practical, it is nice to ease into what `git fetch` is doing, and how we interact with it before we get to some more "interesting" cases!
 
