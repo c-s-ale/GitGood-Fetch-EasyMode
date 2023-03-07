@@ -2,7 +2,7 @@
 
 For starters, this is the simplest and cleanest case of `git fetch` you'll likely ever see - while it's not practical, it is nice to ease into what `git fetch` is doing, and how we interact with it before we get to some more "interesting" cases!
 
-## Step 1 - Fork this repo!
+## Step 1 - Fork this repo! 🍴
 
 At this point, you'll hopefully know how to fork, but if not you can check out [this](https://github.com/chris-alexiuk/GitGood-Forking) repo!
 
