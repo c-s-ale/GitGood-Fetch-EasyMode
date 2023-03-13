@@ -27,4 +27,4 @@ Now that we have made our remote changes, we can use the following flow to updat
   3. `git switch main` to make sure we're on the right branch (this can be any branch you wish to merge the pulled changes to)
   4. `git merge origin/main` - this will do the merge and let us have our fully updated `origin/main` branch in our local repo!
 
-## Step 6 - Celebrate! 🎉
+## Step 6 - Celebrate! 🎉 :tada: :tada:
